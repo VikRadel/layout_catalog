@@ -115,12 +115,12 @@ body {
     margin: 30px 20px 45px;
     height: 134px;
     width: 160px; }
-  .product-box__product-name {
+  .product-box__name {
     margin: 0 15px 6px;
     font-weight: 500;
     font-size: 12px;
     line-height: 15px; }
-  .product-box__product-num {
+  .product-box__num {
     height: 13px;
     margin-left: 15px;
     font-style: normal;
